@@ -9,7 +9,7 @@
 - The two neuron motif script 'two-neuron_motif_LIF.cpp' reproduces the key results shown in Figure 3 and Figure S3 of the manuscript.
 - The two module network script 'two-module_network_LIF.cpp' reproduces the key results shown in Figure 4, Figure S1 and Figure S4 of the manuscript.
 
-- Compilation
+#### Compilation
 
 - Compile either of the scripts with the following syntax and then execute with `./a.out`.
 
@@ -20,7 +20,7 @@ g++ -std=c++11 two-neuron_motif_LIF.cpp
 g++ -std=c++11 two-module_network_LIF.cpp -lfftw3
 ```
 
-### Requirements
+#### Requirements
 
 - C++11
 - The g++ compiler
