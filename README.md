@@ -16,6 +16,7 @@ g++ -std=c++11 two-neuron_motif_LIF.cpp
 ```
 g++ -std=c++11 two-module_network_LIF.cpp -lfftw3
 ```
+
 ## Requirements
 
 - C++11
