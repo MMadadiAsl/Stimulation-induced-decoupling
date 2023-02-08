@@ -28,4 +28,4 @@ g++ -std=c++11 two-module_network_LIF.cpp -lfftw3
 
 ## Citation
 
-- Madadi Asl, M., Valizadeh, A., & Tass, P. A. (2022). Decoupling of interacting neuronal populations by time-shifted stimulation through spike-timing-dependent plasticity.
+- Madadi Asl, M., Valizadeh, A., & Tass, P. A. (2023). Decoupling of interacting neuronal populations by time-shifted stimulation through spike-timing-dependent plasticity. PLOS Computational Biology, 19(2), e1010853.
