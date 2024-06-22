@@ -16,6 +16,7 @@
 ```
 g++ -std=c++11 two-neuron_motif_LIF.cpp
 ./a.out
+
 g++ -std=c++11 two-module_network_LIF.cpp -lfftw3
 ./a.out
 ```
