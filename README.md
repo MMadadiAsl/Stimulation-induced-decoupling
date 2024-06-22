@@ -26,7 +26,7 @@ g++ -std=c++11 two-module_network_LIF.cpp -lfftw3
 - C++11,
 - g++ compiler,
 - FFTW subroutine library,
-- ``random_number.cpp" and 'spike_statistics.cpp'.
+- ```random_number.cpp``` and 'spike_statistics.cpp'.
 
 ## Citation
 
