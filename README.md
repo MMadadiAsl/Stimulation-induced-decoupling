@@ -11,20 +11,22 @@
 
 #### Compilation
 
-- Compile either of the scripts with the following syntax and then execute with `./a.out`.
+- Compile and execute either of the scripts with the following syntax:
 
 ```
 g++ -std=c++11 two-neuron_motif_LIF.cpp
+./a.out
 ```
 ```
 g++ -std=c++11 two-module_network_LIF.cpp -lfftw3
+./a.out
 ```
 #### Requirements
 
-- C++11
-- The g++ compiler
-- The FFTW subroutine library
-- The scripts 'random_number.cpp' and 'spike_statistics.cpp'.
+- C++11,
+- g++ compiler,
+- FFTW subroutine library,
+- 'random_number.cpp' and 'spike_statistics.cpp'.
 
 ## Citation
 
