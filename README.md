@@ -6,8 +6,8 @@
 
 ## Usage
 
--```two-neuron_motif_LIF.cpp``` reproduces the key results shown in Figure 3 and Figure S3 in the manuscript.
--```two-module_network_LIF.cpp``` reproduces the key results shown in Figure 4, Figure S1 and Figure S4 in the manuscript.
+- ```two-neuron_motif_LIF.cpp``` reproduces the key results shown in Figure 3 and Figure S3 in the manuscript.
+- ```two-module_network_LIF.cpp``` reproduces the key results shown in Figure 4, Figure S1 and Figure S4 in the manuscript.
 
 #### Compilation
 
@@ -26,7 +26,7 @@ g++ -std=c++11 two-module_network_LIF.cpp -lfftw3
 - C++11,
 - g++ compiler,
 - FFTW subroutine library,
--```random_number.cpp``` and ```spike_statistics.cpp```.
+- ```random_number.cpp``` and ```spike_statistics.cpp```.
 
 ## Citation
 
